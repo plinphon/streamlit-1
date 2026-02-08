@@ -10,12 +10,6 @@ build/
 venv/
 env/
 
-# ===== PyTorch / ML =====
-*.pt
-*.pth
-*.onnx
-*.ckpt
-
 # ===== YOLO / Ultralytics =====
 runs/
 ultralytics/
